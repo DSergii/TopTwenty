@@ -6,7 +6,9 @@ $ git clone https://github.com/DSergii/TopTwenty.git && cd TopTwentyIonicApp <br
 ``` javascript 
 - npm install
 - bower install
-if not install ionic use 
+```
+<p>if not install ionic use</p>
+```javascript
 - npm install -g cordova ionic
 ```
 - for testing: ionic serve --lab
